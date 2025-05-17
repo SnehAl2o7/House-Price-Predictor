@@ -67,6 +67,8 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+RidgeModel.pkl
+Bengaluru_House_Data.csv
 
 # Sphinx documentation
 docs/_build/
